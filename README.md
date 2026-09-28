@@ -4,6 +4,12 @@ VOICEVOX Engine API と DaVinci Resolve Scripting API を連携し、**テキス
 
 動画制作における「音声生成」「字幕入力」「タイムライン配置」といった反復作業の削減を目的に開発しました。
 
+## Demo
+
+![VOICEVOX × DaVinci Resolve automation demo](assets/voice-resolve-automation-demo.gif)
+
+テキスト入力からVOICEVOXで音声を生成し、DaVinci Resolveのタイムラインへ音声とText+字幕を自動配置するデモです。
+
 ## Features
 
 - VOICEVOX Engine API から話者 / スタイル一覧を取得
